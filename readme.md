@@ -60,6 +60,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Remitly](https://www.remitly.com/) - Money-transfer service for sending remittances to recipients in 175+ countries.
 - [OFX](https://www.ofx.com/) - International money transfers for individuals and businesses to 180+ countries, with multi-currency accounts.
 - [XE](https://www.xe.com/) - Live exchange-rate data, a currency converter, and international transfers to 190+ countries.
+- [Banking Access Index](https://www.globalsolo.global/data/banking-access-index) - Free CC-BY dataset tracking which of 18 US banking providers accept non-US-resident business owners across 8 countries, with evidence-verified policy claims and CSV/JSON downloads.
 
 ## Taxes & Legal
 
