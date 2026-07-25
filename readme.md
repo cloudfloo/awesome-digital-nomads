@@ -39,6 +39,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Exirio](https://www.exirio.com/) - Wealth tracker that consolidates investments, crypto, and property across more than 40 currencies.
 - [Snowball Analytics](https://snowball-analytics.com/) - Dividend and portfolio tracker covering 70+ exchanges and 25+ currencies, with a dividend calendar and benchmarking.
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting app built around assigning every unit of money a job, usable with whatever currency you set.
+- [CAGR Calculator](https://nutilz.com/cagr-calculator) - Free browser tool that computes compound annual growth rate from a start value, end value, and holding period, useful for comparing brokerage or portfolio returns across different currencies and time horizons without a spreadsheet.
 
 ## Cost of Living Data
 
@@ -140,6 +141,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Instabridge](https://instabridge.com/) - WiFi finder with millions of shared hotspots plus eSIM data for 190+ countries.
 - [Phonecall.app](https://phonecall.app/) - Calls landlines and mobiles in over 200 countries from a web browser, billed per second from a prepaid balance, with no app or SIM required.
 - [DialHard](https://dialhard.com/) - Browser calling to phone numbers worldwide over WebRTC with pay-per-minute credit and rentable local numbers; handy for reaching banks or government lines from abroad.
+- [UK SIM Keep-Number Reminder](https://getgiffgaff.com/tools/keep-number-reminder/) - Creates an early fifth-month calendar reminder for an infrequently used giffgaff SIM; runs locally, exports an ICS file, and stores no phone number or account details.
 - [eSIMzio](https://esimzio.com/) - Travel eSIM app for 200+ destinations that shows real prices up front, live data usage read from the carrier, and each plan’s fair-usage limit before you buy. Available for iOS and Android.
 
 ## Communities
