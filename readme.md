@@ -39,6 +39,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Exirio](https://www.exirio.com/) - Wealth tracker that consolidates investments, crypto, and property across more than 40 currencies.
 - [Snowball Analytics](https://snowball-analytics.com/) - Dividend and portfolio tracker covering 70+ exchanges and 25+ currencies, with a dividend calendar and benchmarking.
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting app built around assigning every unit of money a job, usable with whatever currency you set.
+- [CAGR Calculator](https://nutilz.com/cagr-calculator) - Free browser tool that computes compound annual growth rate from a start value, end value, and holding period, useful for comparing brokerage or portfolio returns across different currencies and time horizons without a spreadsheet.
 
 ## Cost of Living Data
 
