@@ -50,6 +50,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Livingcost.org](https://livingcost.org/) - Cost-of-living calculator and rankings covering more than 9,000 cities across 197 countries.
 - [Budget Your Trip](https://www.budgetyourtrip.com/) - Crowd-sourced average daily travel costs by destination and travel style, drawn from tens of thousands of travelers.
 - [ReloMap](https://relomap.app/) - Compares cost of living, taxes, and safety across 200+ destinations, with a tax calculator and visa guides.
+- [WanderGrade](https://wandergrade.com/) - Grades roughly 155 countries A+ to F on cost of living, safety, weather, and flight cost, free with no signup required.
 
 ## Banking & Money Transfer
 
