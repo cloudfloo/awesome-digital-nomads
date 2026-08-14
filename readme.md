@@ -95,6 +95,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Global Citizen Solutions](https://www.globalcitizensolutions.com/) - Advisory firm for residency and citizenship by investment, including golden visas and its own Digital Nomad Visa Index.
 - [Nomad Capitalist](https://nomadcapitalist.com/) - Consultancy for second residency, citizenship, and legal tax planning for people who live across borders.
 - [Get Golden Visa](https://www.getgoldenvisa.com/) - Residency and citizenship-by-investment consultancy covering programs in Portugal, Greece, Malta, and the Caribbean.
+- [Daybound](https://daybound.9ek.ru/) - Free Schengen 90/180 calculator and per-country day tracker over the calendar year and a rolling 12 months, with a Telegram app that auto-detects your country by GPS and warns before you hit the limit.
 
 ## Trip Planning
 
