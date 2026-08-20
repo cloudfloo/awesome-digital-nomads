@@ -95,6 +95,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Global Citizen Solutions](https://www.globalcitizensolutions.com/) - Advisory firm for residency and citizenship by investment, including golden visas and its own Digital Nomad Visa Index.
 - [Nomad Capitalist](https://nomadcapitalist.com/) - Consultancy for second residency, citizenship, and legal tax planning for people who live across borders.
 - [Get Golden Visa](https://www.getgoldenvisa.com/) - Residency and citizenship-by-investment consultancy covering programs in Portugal, Greece, Malta, and the Caribbean.
+- [ActeRO](https://actero.ro/) - Free Romanian-language guide to consular paperwork abroad: ID card and passport renewal, powers of attorney, and birth/marriage certificate transcription for Romanians in Germany, Italy, Spain, France, and the UK.
 
 ## Trip Planning
 
