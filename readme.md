@@ -50,6 +50,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Livingcost.org](https://livingcost.org/) - Cost-of-living calculator and rankings covering more than 9,000 cities across 197 countries.
 - [Budget Your Trip](https://www.budgetyourtrip.com/) - Crowd-sourced average daily travel costs by destination and travel style, drawn from tens of thousands of travelers.
 - [ReloMap](https://relomap.app/) - Compares cost of living, taxes, and safety across 200+ destinations, with a tax calculator and visa guides.
+- [WanderGrade](https://wandergrade.com/) - Grades roughly 155 countries A+ to F on cost of living, safety, weather, and flight cost, free with no signup required.
 
 ## Banking & Money Transfer
 
@@ -95,6 +96,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Global Citizen Solutions](https://www.globalcitizensolutions.com/) - Advisory firm for residency and citizenship by investment, including golden visas and its own Digital Nomad Visa Index.
 - [Nomad Capitalist](https://nomadcapitalist.com/) - Consultancy for second residency, citizenship, and legal tax planning for people who live across borders.
 - [Get Golden Visa](https://www.getgoldenvisa.com/) - Residency and citizenship-by-investment consultancy covering programs in Portugal, Greece, Malta, and the Caribbean.
+- [ActeRO](https://actero.ro/) - Free Romanian-language guide to consular paperwork abroad: ID card and passport renewal, powers of attorney, and birth/marriage certificate transcription for Romanians in Germany, Italy, Spain, France, and the UK.
 - [Daybound](https://daybound.9ek.ru/) - Free Schengen 90/180 calculator and per-country day tracker over the calendar year and a rolling 12 months, with a Telegram app that auto-detects your country by GPS and warns before you hit the limit.
 
 ## Trip Planning
@@ -144,6 +146,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [DialHard](https://dialhard.com/) - Browser calling to phone numbers worldwide over WebRTC with pay-per-minute credit and rentable local numbers; handy for reaching banks or government lines from abroad.
 - [UK SIM Keep-Number Reminder](https://getgiffgaff.com/tools/keep-number-reminder/) - Creates an early fifth-month calendar reminder for an infrequently used giffgaff SIM; runs locally, exports an ICS file, and stores no phone number or account details.
 - [eSIMzio](https://esimzio.com/) - Travel eSIM app for 200+ destinations that shows real prices up front, live data usage read from the carrier, and each plan’s fair-usage limit before you buy. Available for iOS and Android.
+- [Simnity](https://simnity.com/) - Travel eSIM for 190+ countries that pairs prepaid 5G data with a local number for voice calls and SMS, alongside a device-compatibility checker and plans priced in USD or INR.
 
 ## Communities
 
