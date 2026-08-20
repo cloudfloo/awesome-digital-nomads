@@ -144,6 +144,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [DialHard](https://dialhard.com/) - Browser calling to phone numbers worldwide over WebRTC with pay-per-minute credit and rentable local numbers; handy for reaching banks or government lines from abroad.
 - [UK SIM Keep-Number Reminder](https://getgiffgaff.com/tools/keep-number-reminder/) - Creates an early fifth-month calendar reminder for an infrequently used giffgaff SIM; runs locally, exports an ICS file, and stores no phone number or account details.
 - [eSIMzio](https://esimzio.com/) - Travel eSIM app for 200+ destinations that shows real prices up front, live data usage read from the carrier, and each plan’s fair-usage limit before you buy. Available for iOS and Android.
+- [Simnity](https://simnity.com/) - Travel eSIM for 190+ countries that pairs prepaid 5G data with a local number for voice calls and SMS, alongside a device-compatibility checker and plans priced in USD or INR.
 
 ## Communities
 
