@@ -107,6 +107,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Famxplor](https://www.famxplor.com/) - Finds family-tested vacation activities by destination, drawn from firsthand travel-blog accounts by parents traveling with kids.
 - [Wanderlog](https://wanderlog.com/) - Free multi-city itinerary builder with map routing, booking imports, and group collaboration.
 - [TripIt](https://www.tripit.com/) - Turns forwarded booking confirmations into one organized itinerary you can view offline and share.
+- [Travellagio](https://travellagio.com/) - Live flight price comparison across 44 destinations, paired with visa requirements, budget breakdowns, and seasonal guides for each one -- useful for planning a nomad route around visa windows and cost.
 
 ## Flights & Transport
 
