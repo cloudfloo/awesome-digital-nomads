@@ -183,6 +183,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [LiquidSpace](https://liquidspace.com/) - Marketplace to book private offices, meeting rooms, and coworking by the hour, day, or month.
 - [Croissant](https://www.getcroissant.com/) - Single membership that unlocks day-pass access to coworking spaces in over 100 cities.
 - [Regus](https://www.regus.com/) - Global network of 4,000-plus workspaces offering hot-desk day passes and multi-location access plans.
+- [CoworkingView](https://coworkingview.com/en) - Comparison of coworking spaces, private offices and meeting rooms from many operators across about 60 European cities and Dubai, with a free per-city price index.
 
 ## City & Destination Data
 
