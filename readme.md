@@ -133,6 +133,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [FindYourColiving](https://findyourcoliving.com/) - Searchable directory of over 1,000 coliving spaces across 343 cities and 97 countries, with prices and amenities.
 - [Outsite](https://www.outsite.co/) - Membership network of coliving houses in remote-work destinations, from Lisbon to Bali.
 - [TrustedHousesitters](https://www.trustedhousesitters.com/) - Membership marketplace pairing travelers with homeowners for free stays in exchange for pet and house sitting.
+- [StayingAPI](https://stayingapi.com/) - Developer API for accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels: listings, live pricing, and availability to build your own rental and stay search.
 
 ## Connectivity
 
