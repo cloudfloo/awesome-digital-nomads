@@ -165,6 +165,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 ## Remote Jobs
 
 - [We Work Remotely](https://weworkremotely.com/) - High-traffic board with new engineering, design, and marketing roles posted daily.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser freelance tools: invoice, quote, timesheet, expense log, change order, and milestone payment schedule (no signup).
 - [Remote OK](https://remoteok.com/) - Chronological feed of roles from remote-first companies, sorted by recency with open-salary tags.
 - [Working Nomads](https://www.workingnomads.com/) - Aggregates remote jobs from across the web into filterable categories with daily updates and alerts.
 - [Remotive](https://remotive.com/) - Board with weekly additions across tech and non-tech roles; full access sits behind a paid tier.
