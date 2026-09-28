@@ -134,6 +134,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Outsite](https://www.outsite.co/) - Membership network of coliving houses in remote-work destinations, from Lisbon to Bali.
 - [TrustedHousesitters](https://www.trustedhousesitters.com/) - Membership marketplace pairing travelers with homeowners for free stays in exchange for pet and house sitting.
 - [StayingAPI](https://stayingapi.com/) - Developer API for accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels: listings, live pricing, and availability to build your own rental and stay search.
+- [yumpara](https://yumpara.com/) - Single rooms and studio flats rented directly from the host for a month or longer, with no agency and no commission, in 9 European cities.
 
 ## Connectivity
 
