@@ -77,6 +77,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [LLC Class](https://llcclass.com/) - Forms Wyoming LLCs for non-US residents, bundling the state filing, a year of registered-agent service, and EIN application guidance.
 - [Your Tax Base](https://yourtaxbase.com/) - Helps US mobile workers set up Florida domicile to avoid state income tax, handling the Florida address, Declaration of Domicile, and supporting paperwork.
 - [Radar Fiscal](https://radarfiscal.es) - Free calendar of Spanish autónomo tax deadlines (Modelo 303, 130, 111, Seguridad Social) showing each filing window and due date, with a Chrome and Firefox extension for reminders.
+- [Tax Residency Days](https://taxresidencydays.com) - Free, no-signup calculator that runs one travel ledger against 15 countries' tax-residency day tests — US Substantial Presence Test, UK Statutory Residence Test, 183-day rules, plus the Schengen 90/180 stay limit — showing the exact arithmetic and official sources. 100% in-browser.
 
 ## Insurance
 
