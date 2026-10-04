@@ -136,6 +136,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [StayingAPI](https://stayingapi.com/) - Developer API for accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels: listings, live pricing, and availability to build your own rental and stay search.
 
 ## Connectivity
+- [ConnectMeGuru](https://www.connectmeguru.com/) - Global travel eSIM connectivity marketplace covering 190+ countries with automated instant QR provisioning, multi-currency checkout, and a Model Context Protocol (MCP) server for AI assistants.
 
 - [Airalo](https://www.airalo.com/) - eSIM marketplace with local, regional, and global prepaid data plans for 200+ countries.
 - [Nomad](https://www.nomadesim.com/) - Travel eSIM app selling prepaid data across 200+ destinations, with top-ups and no roaming charges.
