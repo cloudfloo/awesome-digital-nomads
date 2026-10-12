@@ -179,6 +179,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [4DayJob](https://4dayjob.com/) - Job board dedicated to four-day-week and reduced-hours roles, filterable by category, location, and region.
 - [FoundRole](https://www.foundrole.com/) - Free job-search tool pairing an hourly-updated board and remote filters with a kanban application tracker.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Remote job board with free browsing, employment-type and salary-listed filters, and employer application links.
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote and at-home robot-training gigs (filming everyday tasks for AI training, remote robot teleoperation), filtered by the countries each accepts, with posted pay.
 
 ## Workspaces
 
