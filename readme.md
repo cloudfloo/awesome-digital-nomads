@@ -115,6 +115,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Wanderlog](https://wanderlog.com/) - Free multi-city itinerary builder with map routing, booking imports, and group collaboration.
 - [TripIt](https://www.tripit.com/) - Turns forwarded booking confirmations into one organized itinerary you can view offline and share.
 - [Travellagio](https://travellagio.com/) - Live flight price comparison across 44 destinations, paired with visa requirements, budget breakdowns, and seasonal guides for each one -- useful for planning a nomad route around visa windows and cost.
+- [chinamapbook](https://chinamapbook.com/) - Free China sightseeing map for saving sights, food and notes into a personal PDF book that works offline after download.
 
 ## Flights & Transport
 
