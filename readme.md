@@ -107,6 +107,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 
 ## Trip Planning
 
+- [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent mainland China travel: payments, eSIM, visas (incl. transit), trains, and apps, each with a verification date.
 - [IndepAI Nomad Planner](https://indepai.app/tools/geo-arbitrage) - Plans multi-city moves around visa limits and shows how each stop changes your cost of living and financial-independence date. From the maintainers of this list.
 
 - [Where Do I Move To](https://wheredoimoveto.com/) - Free quiz that recommends countries and cities to relocate to based on cost of living, jobs, safety, and lifestyle preferences.
