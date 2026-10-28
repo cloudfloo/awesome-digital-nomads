@@ -81,6 +81,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Radar Fiscal](https://radarfiscal.es) - Free calendar of Spanish autónomo tax deadlines (Modelo 303, 130, 111, Seguridad Social) showing each filing window and due date, with a Chrome and Firefox extension for reminders.
 - [Belastingcalculator](https://cerberostech.github.io/belastingcalculator/) - Free Dutch tax calculator in English and Dutch that estimates 2026 take-home pay, zzp (freelancer) income tax and box 3, including the 30% ruling for people relocating to the Netherlands.
 - [Tax Residency Days](https://taxresidencydays.com) - Free, no-signup calculator that runs one travel ledger against 15 countries' tax-residency day tests — US Substantial Presence Test, UK Statutory Residence Test, 183-day rules, plus the Schengen 90/180 stay limit — showing the exact arithmetic and official sources. 100% in-browser.
+- [iReside](https://www.ireside.ai/) - iPhone app that counts your days by GPS in each US state, Canadian province, and country, warns before you cross the 183-day rule, the US Substantial Presence Test, or the Schengen 90/180 limit, and exports audit-ready reports.
 
 ## Insurance
 
