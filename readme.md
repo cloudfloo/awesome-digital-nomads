@@ -104,6 +104,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Daybound](https://daybound.9ek.ru/) - Free Schengen 90/180 calculator and per-country day tracker over the calendar year and a rolling 12 months, with a Telegram app that auto-detects your country by GPS and warns before you hit the limit.
 - [Take Root Abroad](https://takerootabroad.com/) - Move-abroad planner for US citizens that compares 20+ countries by visa route for remote workers and retirees, all-in cost, and the US tax picture, with a free country-fit quiz and per-country timelines.
 - [Residency Radar](https://residencyradar.org/) - Free reference for residency and citizenship rules in 163 countries, with source-cited program comparisons (digital nomad, investment, retirement, work) and a public weekly changelog.
+- [Thailand DTV Checklist](https://shop.pxbt.app/dtv-checklist?src=visa_gh_cloudfloo) - Document checklist for Thailand's 5-year Destination Thailand Visa under the rules in force since 31 August 2026 (citizenship or permanent-residence filing, criminal record certificate), with common refusal reasons and links to embassy sources.
 
 ## Trip Planning
 
