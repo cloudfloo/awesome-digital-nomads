@@ -188,6 +188,8 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [4DayJob](https://4dayjob.com/) - Job board dedicated to four-day-week and reduced-hours roles, filterable by category, location, and region.
 - [FoundRole](https://www.foundrole.com/) - Free job-search tool pairing an hourly-updated board and remote filters with a kanban application tracker.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Remote job board with free browsing, employment-type and salary-listed filters, and employer application links.
+- [chainjobs](https://chainjobs.app/) - Free Web3 and freelance job board for remote work, with direct client-freelancer chat, crypto or bank payment, and 0% platform commission.
+
 
 ## Workspaces
 
