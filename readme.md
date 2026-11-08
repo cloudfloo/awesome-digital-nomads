@@ -205,6 +205,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [IQAir](https://www.iqair.com/) - Live air-quality map and city rankings drawing on over 80,000 monitoring sensors.
 - [Time and Date](https://www.timeanddate.com/) - World clock, time-zone converter, and local weather and daylight reference for any city.
 - [Travel Safe Abroad](https://www.travelsafe-abroad.com/) - Safety guides rating countries and cities across risks like theft, transport, and scams.
+- [WeatherChirp](https://weatherchirp.com/) - Month-by-month climate averages for 30,000+ cities (temperature, rain, sunshine, humidity) from 30 years of ERA5 data, with side-by-side city comparisons.
 
 ## Gear & Security
 
