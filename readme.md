@@ -115,6 +115,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Wanderlog](https://wanderlog.com/) - Free multi-city itinerary builder with map routing, booking imports, and group collaboration.
 - [TripIt](https://www.tripit.com/) - Turns forwarded booking confirmations into one organized itinerary you can view offline and share.
 - [Travellagio](https://travellagio.com/) - Live flight price comparison across 44 destinations, paired with visa requirements, budget breakdowns, and seasonal guides for each one -- useful for planning a nomad route around visa windows and cost.
+- [Latino Events](https://events.lat/) - Concerts, festivals and cultural events across Mexico, Brazil, Argentina, Colombia, Chile and Peru, in English, Spanish and Portuguese, with free iCal calendars for nine major cities.
 
 ## Flights & Transport
 
