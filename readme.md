@@ -126,6 +126,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Rome2Rio](https://www.rome2rio.com/) - Journey planner showing how to travel between any two places by plane, train, bus, ferry, or car, with fares and booking links.
 - [Trainline](https://www.thetrainline.com/) - Booking site for train and coach tickets across 270+ operators in the UK and Europe.
 - [12Go](https://12go.asia/) - Booking platform for trains, buses, ferries, and transfers, with deep coverage across Southeast Asia.
+- [Stopover](https://flystopover.com/) - Multi-city trip planner that prices every order of your cities on dates that fit, with flights, trains, and buses together.
 
 ## Accommodation
 
