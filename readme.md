@@ -223,6 +223,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Duolingo](https://www.duolingo.com/) - Free gamified lessons in 40+ languages, enough to build a daily habit before a new country.
 - [Anki](https://apps.ankiweb.net/) - Open-source spaced-repetition flashcards; the workhorse for long-term vocabulary retention.
 - [italki](https://www.italki.com/) - Marketplace for one-on-one video lessons with native teachers, priced per lesson and bookable across time zones.
+- [Hey Interpreter](https://heyinterpreter.com/) - Live two-way voice translator and room subtitles in 60 languages for phone and smartwatch, showing optional native script under translations.
 
 ## Staying Informed
 
