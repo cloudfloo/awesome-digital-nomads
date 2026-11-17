@@ -81,6 +81,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Radar Fiscal](https://radarfiscal.es) - Free calendar of Spanish autónomo tax deadlines (Modelo 303, 130, 111, Seguridad Social) showing each filing window and due date, with a Chrome and Firefox extension for reminders.
 - [Belastingcalculator](https://cerberostech.github.io/belastingcalculator/) - Free Dutch tax calculator in English and Dutch that estimates 2026 take-home pay, zzp (freelancer) income tax and box 3, including the 30% ruling for people relocating to the Netherlands.
 - [Tax Residency Days](https://taxresidencydays.com) - Free, no-signup calculator that runs one travel ledger against 15 countries' tax-residency day tests — US Substantial Presence Test, UK Statutory Residence Test, 183-day rules, plus the Schengen 90/180 stay limit — showing the exact arithmetic and official sources. 100% in-browser.
+- [Japan Take-Home Pay Calculator](https://setupinjapan.com/take-home-pay/) - Free 2026 net salary calculator for employees in Japan, showing income tax, resident tax, health insurance by prefecture, pension and employment insurance, and whether resident tax applies in your first year.
 
 ## Insurance
 
@@ -105,6 +106,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Take Root Abroad](https://takerootabroad.com/) - Move-abroad planner for US citizens that compares 20+ countries by visa route for remote workers and retirees, all-in cost, and the US tax picture, with a free country-fit quiz and per-country timelines.
 - [Residency Radar](https://residencyradar.org/) - Free reference for residency and citizenship rules in 163 countries, with source-cited program comparisons (digital nomad, investment, retirement, work) and a public weekly changelog.
 - [Atlassio](https://atlassio.co.uk) - Free offline-first Schengen 90/180-day visa calculator and 3D itinerary tracker that monitors rolling day allowances and non-Schengen buffer stays across Europe.
+- [Europe Digital Nomad Visa Income Ladder 2026](https://nomadwish.com/europe-digital-nomad-visa-income-2026/) - Dated table of the monthly and annual income floors for the Spain, Portugal, Greece, Croatia, Malta, Italy, and Estonia digital nomad visas, noting which use gross or net income.
 
 ## Trip Planning
 
@@ -116,6 +118,8 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Wanderlog](https://wanderlog.com/) - Free multi-city itinerary builder with map routing, booking imports, and group collaboration.
 - [TripIt](https://www.tripit.com/) - Turns forwarded booking confirmations into one organized itinerary you can view offline and share.
 - [Travellagio](https://travellagio.com/) - Live flight price comparison across 44 destinations, paired with visa requirements, budget breakdowns, and seasonal guides for each one -- useful for planning a nomad route around visa windows and cost.
+- [chinamapbook](https://chinamapbook.com/) - Free China sightseeing map for saving sights, food and notes into a personal PDF book that works offline after download.
+- [CityWhen](https://citywhen.allsbai.com/) - Free hotel date checker that matches stays with city events and public holidays, including regional and substitute dates, and compares nearby weeks.
 
 ## Flights & Transport
 
@@ -127,6 +131,8 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Rome2Rio](https://www.rome2rio.com/) - Journey planner showing how to travel between any two places by plane, train, bus, ferry, or car, with fares and booking links.
 - [Trainline](https://www.thetrainline.com/) - Booking site for train and coach tickets across 270+ operators in the UK and Europe.
 - [12Go](https://12go.asia/) - Booking platform for trains, buses, ferries, and transfers, with deep coverage across Southeast Asia.
+- [Flare](https://flareflights.com/) - Flight-deal alerts for iPhone and Android that flag fares at least 30% below their usual route price, mostly from European airports, with free web pages listing current deals by departure city and destination.
+- [Mubboo Flights](https://mubboo.flights/) - Travel comparison platform for flights, hotels and car rentals, with destination guides, tours and attraction tickets.
 
 ## Accommodation
 
@@ -189,6 +195,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [4DayJob](https://4dayjob.com/) - Job board dedicated to four-day-week and reduced-hours roles, filterable by category, location, and region.
 - [FoundRole](https://www.foundrole.com/) - Free job-search tool pairing an hourly-updated board and remote filters with a kanban application tracker.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Remote job board with free browsing, employment-type and salary-listed filters, and employer application links.
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote and at-home robot-training gigs (filming everyday tasks for AI training, remote robot teleoperation), filtered by the countries each accepts, with posted pay.
 
 ## Workspaces
 
@@ -224,6 +231,8 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Duolingo](https://www.duolingo.com/) - Free gamified lessons in 40+ languages, enough to build a daily habit before a new country.
 - [Anki](https://apps.ankiweb.net/) - Open-source spaced-repetition flashcards; the workhorse for long-term vocabulary retention.
 - [italki](https://www.italki.com/) - Marketplace for one-on-one video lessons with native teachers, priced per lesson and bookable across time zones.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Shows the captions of any YouTube video as text you can translate, so local-language videos become reading and listening practice.
+- [Hey Interpreter](https://heyinterpreter.com/) - Live two-way voice translator and room subtitles in 60 languages for phone and smartwatch, showing optional native script under translations.
 
 ## Staying Informed
 
