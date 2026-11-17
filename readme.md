@@ -129,6 +129,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Rome2Rio](https://www.rome2rio.com/) - Journey planner showing how to travel between any two places by plane, train, bus, ferry, or car, with fares and booking links.
 - [Trainline](https://www.thetrainline.com/) - Booking site for train and coach tickets across 270+ operators in the UK and Europe.
 - [12Go](https://12go.asia/) - Booking platform for trains, buses, ferries, and transfers, with deep coverage across Southeast Asia.
+- [Flare](https://flareflights.com/) - Flight-deal alerts for iPhone and Android that flag fares at least 30% below their usual route price, mostly from European airports, with free web pages listing current deals by departure city and destination.
 - [Mubboo Flights](https://mubboo.flights/) - Travel comparison platform for flights, hotels and car rentals, with destination guides, tours and attraction tickets.
 
 ## Accommodation
