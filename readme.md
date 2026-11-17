@@ -120,7 +120,8 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [chinamapbook](https://chinamapbook.com/) - Free China sightseeing map for saving sights, food and notes into a personal PDF book that works offline after download.
 - [CityWhen](https://citywhen.allsbai.com/) - Free hotel date checker that matches stays with city events and public holidays, including regional and substitute dates, and compares nearby weeks.
 
-## Flights & Transport
+- [TripUtils](https://www.triputils.com/budget) - Free travel-budget and eSIM calculators: daily-cost ranges by style, EU261 compensation checks, roaming-vs-eSIM fee comparison, and cabin-bag size checks. Own product.
+
 
 - [Google Flights](https://www.google.com/travel/flights) - Flight search with a flexible-date grid, price tracking, and a map view for finding cheap destinations.
 - [Skyscanner](https://www.skyscanner.net/) - Flight, hotel, and car search that can scan a whole country or "everywhere" for the cheapest options.
