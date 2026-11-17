@@ -106,6 +106,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Take Root Abroad](https://takerootabroad.com/) - Move-abroad planner for US citizens that compares 20+ countries by visa route for remote workers and retirees, all-in cost, and the US tax picture, with a free country-fit quiz and per-country timelines.
 - [Residency Radar](https://residencyradar.org/) - Free reference for residency and citizenship rules in 163 countries, with source-cited program comparisons (digital nomad, investment, retirement, work) and a public weekly changelog.
 - [Europe Digital Nomad Visa Income Ladder 2026](https://nomadwish.com/europe-digital-nomad-visa-income-2026/) - Dated table of the monthly and annual income floors for the Spain, Portugal, Greece, Croatia, Malta, Italy, and Estonia digital nomad visas, noting which use gross or net income.
+- [China Tours Local](https://chinatourslocal.com/entry) - Free checker that works through China's four visa-free entry routes rule by rule, with the official source for each step.
 
 ## Trip Planning
 
