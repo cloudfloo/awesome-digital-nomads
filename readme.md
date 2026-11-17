@@ -224,6 +224,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Anki](https://apps.ankiweb.net/) - Open-source spaced-repetition flashcards; the workhorse for long-term vocabulary retention.
 - [italki](https://www.italki.com/) - Marketplace for one-on-one video lessons with native teachers, priced per lesson and bookable across time zones.
 - [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Shows the captions of any YouTube video as text you can translate, so local-language videos become reading and listening practice.
+- [Hey Interpreter](https://heyinterpreter.com/) - Live two-way voice translator and room subtitles in 60 languages for phone and smartwatch, showing optional native script under translations.
 
 ## Staying Informed
 
