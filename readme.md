@@ -195,6 +195,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [FoundRole](https://www.foundrole.com/) - Free job-search tool pairing an hourly-updated board and remote filters with a kanban application tracker.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Remote job board with free browsing, employment-type and salary-listed filters, and employer application links.
 - [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote and at-home robot-training gigs (filming everyday tasks for AI training, remote robot teleoperation), filtered by the countries each accepts, with posted pay.
+- [Freelance Client Onboarding Toolkit](https://github.com/AHMEDFOUAAD/freelance-client-onboarding-toolkit) - Free CC BY 4.0 client qualification SOP, scope questionnaire, kickoff checklist, and Python floor-rate calculator for freelancers managing remote clients.
 
 ## Workspaces
 
