@@ -223,6 +223,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Backblaze](https://www.backblaze.com/) - Unlimited cloud backup for laptops plus S3-compatible object storage for larger archives.
 - [Pacsafe](https://pacsafe.com/) - Anti-theft backpacks, bags, and travel accessories with cut-resistant straps and lockable zippers.
 - [Screen-share pointer checklist](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) - Five checks for confirming that remote attendees can see the detail a presenter points to in Zoom or Teams.
+- [Tsuki](https://buddahs-temptation.win/tsuki) - Hysteria2 proxy subscriptions for compatible iOS, Android, Windows, and macOS clients, with nodes in Hong Kong, Singapore, Indonesia, Japan, and the United States.
 
 ## Language Learning
 
