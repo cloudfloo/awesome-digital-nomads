@@ -41,6 +41,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting app built around assigning every unit of money a job, usable with whatever currency you set.
 - [CAGR Calculator](https://nutilz.com/cagr-calculator) - Free browser tool that computes compound annual growth rate from a start value, end value, and holding period, useful for comparing brokerage or portfolio returns across different currencies and time horizons without a spreadsheet.
 - [Nomad Budget](https://nomadbudget.rubeeks.co/) - Multi-currency expense tracker for iPhone that gives each country you stay in its own wallet in its local currency, keeps each entry at the exchange rate of the day it was paid, and plots your route and country costs on a 3D globe.
+- [Moedux](https://www.moedux.com/) - Brazilian personal-finance app that turns transactions and bills into a diagnosis and projects the date your balance reaches zero; free no-signup preview and CSV templates. Starts with a 14-day trial without a card.
 
 ## Cost of Living Data
 
