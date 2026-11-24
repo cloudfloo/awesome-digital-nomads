@@ -119,6 +119,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Travellagio](https://travellagio.com/) - Live flight price comparison across 44 destinations, paired with visa requirements, budget breakdowns, and seasonal guides for each one -- useful for planning a nomad route around visa windows and cost.
 - [chinamapbook](https://chinamapbook.com/) - Free China sightseeing map for saving sights, food and notes into a personal PDF book that works offline after download.
 - [CityWhen](https://citywhen.allsbai.com/) - Free hotel date checker that matches stays with city events and public holidays, including regional and substitute dates, and compares nearby weeks.
+- [Atlas Travel Organiser](https://atlasapp.co.uk/) - Keep your hotel address, check-in and check-out times, booking reference and notes alongside your flight.
 
 ## Flights & Transport
 
